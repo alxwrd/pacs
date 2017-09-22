@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CaptureInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BitmapFile>Market_Ship_Scroll.tif</BitmapFile>
+  <Island>Basset</Island>
+  <CommodityRect>
+    <X>17</X>
+    <Y>108</Y>
+    <Width>593</Width>
+    <Height>232</Height>
+  </CommodityRect>
+  <Commodities>
+    <Commodity><Name>Sugar cane</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>2</BuyPrice><BuyQty>500</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>3</BuyPrice><BuyQty>500</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>9</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Wood</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>1</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Swill</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>15</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Grog</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>20</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Fine rum</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>50</BuyPrice><BuyQty>1001</BuyQty><SellPrice>85</SellPrice><SellQty>13</SellQty>
+    </Commodity>  
+    <Commodity><Name>Small cannon balls</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>13</BuyPrice><BuyQty>1001</BuyQty><SellPrice>22</SellPrice><SellQty>7</SellQty>
+    </Commodity>  
+    <Commodity><Name>Medium cannon balls</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>30</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Large cannon balls</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>50</BuyPrice><BuyQty>1001</BuyQty><SellPrice>75</SellPrice><SellQty>1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Masuyite</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>800</BuyPrice><BuyQty>124</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Gold nuggets</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>800</BuyPrice><BuyQty>124</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sail cloth</Name><Shop>A Vicious Fort</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+  </Commodities>
+</CaptureInfo>

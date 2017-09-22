@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CaptureInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BitmapFile>Market_Island_Full_800x600.tif</BitmapFile>
+  <Island>Blackthorpe</Island>
+  <CommodityRect>
+    <X>15</X>
+    <Y>83</Y>
+    <Width>598</Width>
+    <Height>402</Height>
+  </CommodityRect>
+  <Commodities>
+    <Commodity><Name>Sugar cane</Name><Shop>Willikins's Distilling Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>786</BuyQty><SellPrice>14</SellPrice><SellQty>49</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Paddytora's Distilling Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>989</BuyQty><SellPrice>10</SellPrice><SellQty>11</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Orz's Distilling Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>380</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Senga's Distilling Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>678</BuyQty><SellPrice>10</SellPrice><SellQty>143</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Fort Thorpe</Shop>
+      <BuyPrice>2</BuyPrice><BuyQty>300</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Harriman's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>14</SellPrice><SellQty>65</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Willikins's Distilling Stall</Shop>
+      <BuyPrice>3</BuyPrice><BuyQty>314</BuyQty><SellPrice>8</SellPrice><SellQty>3</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Paddytora's Distilling Stall</Shop>
+      <BuyPrice>3</BuyPrice><BuyQty>68</BuyQty><SellPrice>6</SellPrice><SellQty>82</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Orz's Distilling Stall</Shop>
+      <BuyPrice>3</BuyPrice><BuyQty>440</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Senga's Distilling Stall</Shop>
+      <BuyPrice>3</BuyPrice><BuyQty>15</BuyQty><SellPrice>7</SellPrice><SellQty>45</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Fort Thorpe</Shop>
+      <BuyPrice>1</BuyPrice><BuyQty>300</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Fort Thorpe</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>1000</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Willikins's Distilling Stall</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Paddytora's Ironworking Stall</Shop>
+      <BuyPrice>9</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Beccajo's Ironworking Stall</Shop>
+      <BuyPrice>9</BuyPrice><BuyQty>363</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Em's Ironworking Stall</Shop>
+      <BuyPrice>9</BuyPrice><BuyQty>492</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Trustbane's Ironworking Stall</Shop>
+      <BuyPrice>9</BuyPrice><BuyQty>296</BuyQty><SellPrice>18</SellPrice><SellQty>504</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Daily Plan-It</Shop>
+      <BuyPrice>9</BuyPrice><BuyQty>628</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Paddytora's Distilling Stall</Shop>
+      <BuyPrice>9</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Senga's Distilling Stall</Shop>
+      <BuyPrice>9</BuyPrice><BuyQty>66</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Rodeb's Ironworking Stall</Shop>
+      <BuyPrice>7</BuyPrice><BuyQty>390</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Capnpugwash's Ironworking Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>13</SellPrice><SellQty>1001</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Orz's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>15</SellPrice><SellQty>914</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Cruros's Tailoring Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>20</SellPrice><SellQty>99</SellQty>
+    </Commodity>  
+    <Commodity><Name>Wood</Name><Shop>Capnpugwash's Ironworking Stall</Shop>
+      <BuyPrice>19</BuyPrice><BuyQty>10</BuyQty><SellPrice>30</SellPrice><SellQty>39</SellQty>
+    </Commodity>  
+  </Commodities>
+</CaptureInfo>

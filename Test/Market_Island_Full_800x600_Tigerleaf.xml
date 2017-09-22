@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CaptureInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BitmapFile>Market_Island_Full_800x600_Tigerleaf.tif</BitmapFile>
+  <Island>Tigerleaf Mountain</Island>
+  <CommodityRect>
+    <X>15</X>
+    <Y>83</Y>
+    <Width>598</Width>
+    <Height>402</Height>
+  </CommodityRect>
+  <Commodities>
+    <Commodity><Name>Sugar cane</Name><Shop>Sahtiaine's Distilling Stall</Shop>
+      <BuyPrice>8</BuyPrice><BuyQty>240</BuyQty><SellPrice>15</SellPrice><SellQty>260</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Distill of the Night</Shop>
+      <BuyPrice>8</BuyPrice><BuyQty>313</BuyQty><SellPrice>20</SellPrice><SellQty>1001</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Mountain Lion Moonshine</Shop>
+      <BuyPrice>8</BuyPrice><BuyQty>340</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Thomie's Distilling Stall</Shop>
+      <BuyPrice>7</BuyPrice><BuyQty>150</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Deathjoker's Distilling Stall</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>373</BuyQty><SellPrice>15</SellPrice><SellQty>168</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Home Improvement</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>150</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Crimedog's Distilling Stall</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>232</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Thunderbrew</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>988</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Imperial Palace</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>100</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Tycho's Distilling Stall</Shop>
+      <BuyPrice>4</BuyPrice><BuyQty>945</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Dolann's Distilling Stall</Shop>
+      <BuyPrice>4</BuyPrice><BuyQty>200</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Sirjolly's Distilling Stall</Shop>
+      <BuyPrice>0</BuyPrice><BuyQty>161</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Devilish Delights</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>15</SellPrice><SellQty>100</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Ryannakjk's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>25</SellPrice><SellQty>450</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Bluediamond's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>15</SellPrice><SellQty>200</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Hunting Sea Otters Dock</Shop>
+      <BuyPrice>8</BuyPrice><BuyQty>916</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Butterfly Kisses</Shop>
+      <BuyPrice>7</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Bluediamond's Distilling Stall</Shop>
+      <BuyPrice>7</BuyPrice><BuyQty>50</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Butterfly Effect</Shop>
+      <BuyPrice>7</BuyPrice><BuyQty>18</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Home Improvement</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>327</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Mountains of Cloth</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>966</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Blockaded Brigs and Sunken Frigs</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>The Naughty Shipmaster</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>1000</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Ryannakjk's Distilling Stall</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>73</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Thunderbrew</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>260</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+  </Commodities>
+</CaptureInfo>

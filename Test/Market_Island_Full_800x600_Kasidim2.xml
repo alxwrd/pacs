@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CaptureInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- Ahoy pane has different border which can impact location
+	   of "Player's Online" text and recognition of island name-->
+  <BitmapFile>Market_Island_Full_800x600_Kasidim2.tif</BitmapFile>
+  <Island>Kasidim</Island>
+  <CommodityRect>
+    <X>15</X>
+    <Y>83</Y>
+    <Width>598</Width>
+    <Height>402</Height>
+  </CommodityRect>
+  <Commodities>
+    <Commodity><Name>Sugar cane</Name><Shop>Masada</Shop>
+      <BuyPrice>2</BuyPrice><BuyQty>200</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Johanson's Shipbuilding Stall</Shop>
+      <BuyPrice>1</BuyPrice><BuyQty>50</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Sloops of Galilee</Shop>
+      <BuyPrice>1</BuyPrice><BuyQty>200</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Shiphrah</Shop>
+      <BuyPrice>1</BuyPrice><BuyQty>100</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Barnold's Shipbuilding Stall</Shop>
+      <BuyPrice>1</BuyPrice><BuyQty>7</BuyQty><SellPrice>10</SellPrice><SellQty>7</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Masada</Shop>
+      <BuyPrice>1</BuyPrice><BuyQty>1001</BuyQty><SellPrice>4</SellPrice><SellQty>13</SellQty>
+    </Commodity>  
+    <Commodity><Name>Hemp</Name><Shop>Lakabars's Shipbuilding Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>10</SellPrice><SellQty>287</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Johanson's Shipbuilding Stall</Shop>
+      <BuyPrice>12</BuyPrice><BuyQty>27</BuyQty><SellPrice>18</SellPrice><SellQty>473</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Kambei's Ironworking Stall</Shop>
+      <BuyPrice>12</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Sugamomma's Ironworking Stall</Shop>
+      <BuyPrice>12</BuyPrice><BuyQty>341</BuyQty><SellPrice>20</SellPrice><SellQty>159</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Juls's Ironworking Stall</Shop>
+      <BuyPrice>12</BuyPrice><BuyQty>521</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Mindless's Ironworking Stall</Shop>
+      <BuyPrice>12</BuyPrice><BuyQty>497</BuyQty><SellPrice>18</SellPrice><SellQty>3</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Samsungfreak's Ironworking Stall</Shop>
+      <BuyPrice>12</BuyPrice><BuyQty>258</BuyQty><SellPrice>15</SellPrice><SellQty>1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Sloops of Galilee</Shop>
+      <BuyPrice>11</BuyPrice><BuyQty>925</BuyQty><SellPrice>16</SellPrice><SellQty>575</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Dreadprobert's Ironworking Stall</Shop>
+      <BuyPrice>11</BuyPrice><BuyQty>212</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Schnivelbiv's Ironworking Stall</Shop>
+      <BuyPrice>11</BuyPrice><BuyQty>596</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Lakabars's Shipbuilding Stall</Shop>
+      <BuyPrice>11</BuyPrice><BuyQty>72</BuyQty><SellPrice>17</SellPrice><SellQty>1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Jhlife's Shipbuilding Stall</Shop>
+      <BuyPrice>11</BuyPrice><BuyQty>25</BuyQty><SellPrice>17</SellPrice><SellQty>170</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Psychopathic's Ironworking Stall</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>73</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Emeraldeyes's Ironworking Stall</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>1001</BuyQty><SellPrice>24</SellPrice><SellQty>103</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Scditwe's Ironworking Stall</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>195</BuyQty><SellPrice>18</SellPrice><SellQty>105</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Psychopathic's Shipbuilding Stall</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>900</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Shiphrah</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Wraithmagus's Ironworking Stall</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Iron</Name><Shop>Billion's Shipbuilding Stall</Shop>
+      <BuyPrice>10</BuyPrice><BuyQty>150</BuyQty><SellPrice>25</SellPrice><SellQty>150</SellQty>
+    </Commodity>  
+  </Commodities>
+</CaptureInfo>

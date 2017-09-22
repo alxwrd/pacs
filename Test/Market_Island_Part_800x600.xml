@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CaptureInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BitmapFile>Market_Island_Part_800x600.tif</BitmapFile>
+  <Island>Halley</Island>
+  <CommodityRect>
+    <X>15</X>
+    <Y>83</Y>
+    <Width>608</Width>
+    <Height>402</Height>
+  </CommodityRect>
+  <Commodities>
+    <Commodity><Name>Fine rum</Name><Shop>Tail Blazer</Shop>
+      <BuyPrice>51</BuyPrice><BuyQty>94</BuyQty><SellPrice>53</SellPrice><SellQty>1001</SellQty>
+    </Commodity>  
+    <Commodity><Name>Small cannon balls</Name><Shop>Tail Blazer</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>16</SellPrice><SellQty>1000</SellQty>
+    </Commodity>  
+    <Commodity><Name>Medium cannon balls</Name><Shop>Tail Blazer</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>30</SellPrice><SellQty>1000</SellQty>
+    </Commodity>  
+    <Commodity><Name>Large cannon balls</Name><Shop>Tail Blazer</Shop>
+      <BuyPrice>38</BuyPrice><BuyQty>984</BuyQty><SellPrice>40</SellPrice><SellQty>16</SellQty>
+    </Commodity>  
+  </Commodities>
+</CaptureInfo>

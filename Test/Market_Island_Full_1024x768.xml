@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CaptureInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BitmapFile>Market_Island_Full_1024x768.tif</BitmapFile>
+  <Island>Wensleydale</Island>
+  <CommodityRect>
+    <X>15</X>
+    <Y>83</Y>
+    <Width>822</Width>
+    <Height>570</Height>
+  </CommodityRect>
+  <Commodities>
+    <Commodity><Name>Sugar cane</Name><Shop>Wareth's Distilling Stall</Shop>
+      <BuyPrice>8</BuyPrice><BuyQty>108</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Katwalker's Distilling Stall</Shop>
+      <BuyPrice>8</BuyPrice><BuyQty>300</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Yohojoy's Distilling Stall</Shop>
+      <BuyPrice>7</BuyPrice><BuyQty>77</BuyQty><SellPrice>19</SellPrice><SellQty>273</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Erb's Distilling Stall</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>125</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Grumpyone's Distilling Stall</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>390</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Ronindh's Distilling Stall</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>43</BuyQty><SellPrice>20</SellPrice><SellQty>237</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Nekomimi's Distilling Stall</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>269</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Alexco's Distilling Stall</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>700</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Brazyn's Distilling Stall</Shop>
+      <BuyPrice>6</BuyPrice><BuyQty>553</BuyQty><SellPrice>10</SellPrice><SellQty>717</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Emeraldeyes's Furnishing Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>27</BuyQty><SellPrice>25</SellPrice><SellQty>158</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Petpet's Distilling Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>491</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Stnickolas's Distilling Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>298</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Jimhaide's Distilling Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>618</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Nitrogen's Furnishing Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>270</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Poepleaser's Furnishing Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>36</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Daviro's Furnishing Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>70</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Rumsundae's Furnishing Stall</Shop>
+      <BuyPrice>5</BuyPrice><BuyQty>399</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Koura's Distilling Stall</Shop>
+      <BuyPrice>4</BuyPrice><BuyQty>500</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Dabloon's Distilling Stall</Shop>
+      <BuyPrice>4</BuyPrice><BuyQty>90</BuyQty><SellPrice>16</SellPrice><SellQty>570</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Retrybute's Distilling Stall</Shop>
+      <BuyPrice>4</BuyPrice><BuyQty>992</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Nervosinho's Distilling Stall</Shop>
+      <BuyPrice>3</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Hooknose's Furnishing Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>10</SellPrice><SellQty>50</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Jozgol's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>9</SellPrice><SellQty>150</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Caribboy's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>14</SellPrice><SellQty>130</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Deadseadog's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>19</SellPrice><SellQty>300</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Bone's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>25</SellPrice><SellQty>100</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Scythy's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>8</SellPrice><SellQty>150</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Maragato's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>12</SellPrice><SellQty>70</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Kissoo's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>10</SellPrice><SellQty>600</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Whitesnow's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>11</SellPrice><SellQty>259</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Reui's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>9</SellPrice><SellQty>225</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Walker's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>15</SellPrice><SellQty>220</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Paslasks's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>9</SellPrice><SellQty>241</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Mindless's Distilling Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>25</SellPrice><SellQty>500</SellQty>
+    </Commodity>  
+    <Commodity><Name>Sugar cane</Name><Shop>Port &amp; Starboard Flip Flop</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>8</SellPrice><SellQty>100</SellQty>
+    </Commodity>  
+  </Commodities>
+</CaptureInfo>

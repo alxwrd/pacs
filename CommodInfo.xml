@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CommodInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CommodMaps>
+    <CommodMap><Name>Sugar cane</Name><Index>1</Index></CommodMap>
+    <CommodMap><Name>Hemp</Name><Index>2</Index></CommodMap>
+    <CommodMap><Name>Iron</Name><Index>3</Index></CommodMap>
+    <CommodMap><Name>Wood</Name><Index>4</Index></CommodMap>
+    <CommodMap><Name>Stone</Name><Index>5</Index></CommodMap>
+    <CommodMap><Name>Hemp oil</Name><Index>6</Index></CommodMap>
+    <CommodMap><Name>Varnish</Name><Index>7</Index></CommodMap>
+    <CommodMap><Name>Lacquer</Name><Index>8</Index></CommodMap>
+    <CommodMap><Name>Swill</Name><Index>9</Index></CommodMap>
+    <CommodMap><Name>Grog</Name><Index>10</Index></CommodMap>
+    <CommodMap><Name>Fine rum</Name><Index>11</Index></CommodMap>
+    <CommodMap><Name>Small cannon balls</Name><Index>12</Index></CommodMap>
+    <CommodMap><Name>Medium cannon balls</Name><Index>13</Index></CommodMap>
+    <CommodMap><Name>Large cannon balls</Name><Index>14</Index></CommodMap>
+    <CommodMap><Name>Madder</Name><Index>15</Index></CommodMap>
+    <CommodMap><Name>Old man's beard</Name><Index>16</Index></CommodMap>
+    <CommodMap><Name>Yarrow</Name><Index>17</Index></CommodMap>
+    <CommodMap><Name>Sassafras</Name><Index>18</Index></CommodMap>
+    <CommodMap><Name>Iris root</Name><Index>19</Index></CommodMap>
+    <CommodMap><Name>Weld</Name><Index>20</Index></CommodMap>
+    <CommodMap><Name>Broom flower</Name><Index>21</Index></CommodMap>
+    <CommodMap><Name>Lobelia</Name><Index>22</Index></CommodMap>
+    <CommodMap><Name>Pokeweed berries</Name><Index>23</Index></CommodMap>
+    <CommodMap><Name>Indigo</Name><Index>24</Index></CommodMap>
+    <CommodMap><Name>Elderberries</Name><Index>25</Index></CommodMap>
+    <CommodMap><Name>Cowslip</Name><Index>26</Index></CommodMap>
+    <CommodMap><Name>Lily of the valley</Name><Index>27</Index></CommodMap>
+    <CommodMap><Name>Nettle</Name><Index>28</Index></CommodMap>
+    <CommodMap><Name>Butterfly weed</Name><Index>29</Index></CommodMap>
+    <CommodMap><Name>Lorandite</Name><Index>30</Index></CommodMap>
+    <CommodMap><Name>Leushite</Name><Index>31</Index></CommodMap>
+    <CommodMap><Name>Tellurium</Name><Index>32</Index></CommodMap>
+    <CommodMap><Name>Thorianite</Name><Index>33</Index></CommodMap>
+    <CommodMap><Name>Chalcocite</Name><Index>34</Index></CommodMap>
+    <CommodMap><Name>Cubanite</Name><Index>35</Index></CommodMap>
+    <CommodMap><Name>Serandite</Name><Index>36</Index></CommodMap>
+    <CommodMap><Name>Papagoite</Name><Index>37</Index></CommodMap>
+    <CommodMap><Name>Sincosite</Name><Index>38</Index></CommodMap>
+    <CommodMap><Name>Masuyite</Name><Index>39</Index></CommodMap>
+    <CommodMap><Name>Gold ore</Name><Index>40</Index></CommodMap>
+    <CommodMap><Name>Red cloth</Name><Index>41</Index></CommodMap>
+    <CommodMap><Name>Fine red cloth</Name><Index>42</Index></CommodMap>
+    <CommodMap><Name>Tan cloth</Name><Index>43</Index></CommodMap>
+    <CommodMap><Name>Fine tan cloth</Name><Index>44</Index></CommodMap>
+    <CommodMap><Name>White cloth</Name><Index>45</Index></CommodMap>
+    <CommodMap><Name>Fine white cloth</Name><Index>46</Index></CommodMap>
+    <CommodMap><Name>Black cloth</Name><Index>47</Index></CommodMap>
+    <CommodMap><Name>Fine black cloth</Name><Index>48</Index></CommodMap>
+    <CommodMap><Name>Grey cloth</Name><Index>49</Index></CommodMap>
+    <CommodMap><Name>Fine grey cloth</Name><Index>50</Index></CommodMap>
+    <CommodMap><Name>Yellow cloth</Name><Index>51</Index></CommodMap>
+    <CommodMap><Name>Fine yellow cloth</Name><Index>52</Index></CommodMap>
+    <CommodMap><Name>Pink cloth</Name><Index>53</Index></CommodMap>
+    <CommodMap><Name>Fine pink cloth</Name><Index>54</Index></CommodMap>
+    <CommodMap><Name>Violet cloth</Name><Index>55</Index></CommodMap>
+    <CommodMap><Name>Fine violet cloth</Name><Index>56</Index></CommodMap>
+    <CommodMap><Name>Purple cloth</Name><Index>57</Index></CommodMap>
+    <CommodMap><Name>Fine purple cloth</Name><Index>58</Index></CommodMap>
+    <CommodMap><Name>Navy cloth</Name><Index>59</Index></CommodMap>
+    <CommodMap><Name>Fine navy cloth</Name><Index>60</Index></CommodMap>
+    <CommodMap><Name>Blue cloth</Name><Index>61</Index></CommodMap>
+    <CommodMap><Name>Fine blue cloth</Name><Index>62</Index></CommodMap>
+    <CommodMap><Name>Aqua cloth</Name><Index>63</Index></CommodMap>
+    <CommodMap><Name>Fine aqua cloth</Name><Index>64</Index></CommodMap>
+    <CommodMap><Name>Lime cloth</Name><Index>65</Index></CommodMap>
+    <CommodMap><Name>Fine lime cloth</Name><Index>66</Index></CommodMap>
+    <CommodMap><Name>Green cloth</Name><Index>67</Index></CommodMap>
+    <CommodMap><Name>Fine green cloth</Name><Index>68</Index></CommodMap>
+    <CommodMap><Name>Orange cloth</Name><Index>69</Index></CommodMap>
+    <CommodMap><Name>Fine orange cloth</Name><Index>70</Index></CommodMap>
+    <CommodMap><Name>Maroon cloth</Name><Index>71</Index></CommodMap>
+    <CommodMap><Name>Fine maroon cloth</Name><Index>72</Index></CommodMap>
+    <CommodMap><Name>Brown cloth</Name><Index>73</Index></CommodMap>
+    <CommodMap><Name>Fine brown cloth</Name><Index>74</Index></CommodMap>
+    <CommodMap><Name>Gold cloth</Name><Index>75</Index></CommodMap>
+    <CommodMap><Name>Fine gold cloth</Name><Index>76</Index></CommodMap>
+    <CommodMap><Name>Sail cloth</Name><Index>77</Index></CommodMap>
+    <CommodMap><Name>Red dye</Name><Index>78</Index></CommodMap>
+    <CommodMap><Name>Kraken's blood</Name><Index>79</Index></CommodMap>
+    <CommodMap><Name>Yellow dye</Name><Index>80</Index></CommodMap>
+    <CommodMap><Name>Blue dye</Name><Index>81</Index></CommodMap>
+    <CommodMap><Name>Lime dye</Name><Index>82</Index></CommodMap>
+    <CommodMap><Name>Green dye</Name><Index>83</Index></CommodMap>
+    <CommodMap><Name>Red paint</Name><Index>84</Index></CommodMap>
+    <CommodMap><Name>Tan paint</Name><Index>85</Index></CommodMap>
+    <CommodMap><Name>White paint</Name><Index>86</Index></CommodMap>
+    <CommodMap><Name>Black paint</Name><Index>87</Index></CommodMap>
+    <CommodMap><Name>Grey paint</Name><Index>88</Index></CommodMap>
+    <CommodMap><Name>Yellow paint</Name><Index>89</Index></CommodMap>
+    <CommodMap><Name>Pink paint</Name><Index>90</Index></CommodMap>
+    <CommodMap><Name>Violet paint</Name><Index>91</Index></CommodMap>
+    <CommodMap><Name>Purple paint</Name><Index>92</Index></CommodMap>
+    <CommodMap><Name>Navy paint</Name><Index>93</Index></CommodMap>
+    <CommodMap><Name>Blue paint</Name><Index>94</Index></CommodMap>
+    <CommodMap><Name>Aqua paint</Name><Index>95</Index></CommodMap>
+    <CommodMap><Name>Lime paint</Name><Index>96</Index></CommodMap>
+    <CommodMap><Name>Green paint</Name><Index>97</Index></CommodMap>
+    <CommodMap><Name>Orange paint</Name><Index>98</Index></CommodMap>
+    <CommodMap><Name>Maroon paint</Name><Index>99</Index></CommodMap>
+    <CommodMap><Name>Brown paint</Name><Index>100</Index></CommodMap>
+    <CommodMap><Name>Gold paint</Name><Index>101</Index></CommodMap>
+    <CommodMap><Name>Red enamel</Name><Index>102</Index></CommodMap>
+    <CommodMap><Name>Orange enamel</Name><Index>103</Index></CommodMap>
+    <CommodMap><Name>Yellow enamel</Name><Index>104</Index></CommodMap>
+    <CommodMap><Name>Green enamel</Name><Index>105</Index></CommodMap>
+    <CommodMap><Name>Blue enamel</Name><Index>106</Index></CommodMap>
+    <CommodMap><Name>Purple enamel</Name><Index>107</Index></CommodMap>
+    <CommodMap><Name>White enamel</Name><Index>108</Index></CommodMap>
+    <CommodMap><Name>Black enamel</Name><Index>109</Index></CommodMap>
+    <CommodMap><Name>Coral gems</Name><Index>110</Index></CommodMap>
+    <CommodMap><Name>Diamonds</Name><Index>111</Index></CommodMap>
+    <CommodMap><Name>Emeralds</Name><Index>112</Index></CommodMap>
+    <CommodMap><Name>Jet gems</Name><Index>113</Index></CommodMap>
+    <CommodMap><Name>Opals</Name><Index>114</Index></CommodMap>
+    <CommodMap><Name>Pearls</Name><Index>115</Index></CommodMap>
+    <CommodMap><Name>Rubies</Name><Index>116</Index></CommodMap>
+    <CommodMap><Name>Sapphires</Name><Index>117</Index></CommodMap>
+    <CommodMap><Name>Bananas</Name><Index>118</Index></CommodMap>
+    <CommodMap><Name>Carambolas</Name><Index>119</Index></CommodMap>
+    <CommodMap><Name>Coconuts</Name><Index>120</Index></CommodMap>
+    <CommodMap><Name>Durians</Name><Index>121</Index></CommodMap>
+    <CommodMap><Name>Limes</Name><Index>122</Index></CommodMap>
+    <CommodMap><Name>Mangos</Name><Index>123</Index></CommodMap>
+    <CommodMap><Name>Passion fruit</Name><Index>124</Index></CommodMap>
+    <CommodMap><Name>Pineapples</Name><Index>125</Index></CommodMap>
+    <CommodMap><Name>Pomegranates</Name><Index>126</Index></CommodMap>
+    <CommodMap><Name>Rambutan</Name><Index>127</Index></CommodMap>
+    <CommodMap><Name>Amber gems</Name><Index>128</Index></CommodMap>
+    <CommodMap><Name>Amethyst gems</Name><Index>129</Index></CommodMap>
+    <CommodMap><Name>Beryls</Name><Index>130</Index></CommodMap>
+    <CommodMap><Name>Jade gems</Name><Index>131</Index></CommodMap>
+    <CommodMap><Name>Jasper gems</Name><Index>132</Index></CommodMap>
+    <CommodMap><Name>Lapis gems</Name><Index>133</Index></CommodMap>
+    <CommodMap><Name>Moonstones</Name><Index>134</Index></CommodMap>
+    <CommodMap><Name>Quartzes</Name><Index>135</Index></CommodMap>
+    <CommodMap><Name>Tiger eyes</Name><Index>136</Index></CommodMap>
+    <CommodMap><Name>Topazes</Name><Index>137</Index></CommodMap>
+    <CommodMap><Name>Lavender cloth</Name><Index>138</Index></CommodMap>
+    <CommodMap><Name>Fine lavender cloth</Name><Index>139</Index></CommodMap>
+    <CommodMap><Name>Mint cloth</Name><Index>140</Index></CommodMap>
+    <CommodMap><Name>Fine mint cloth</Name><Index>141</Index></CommodMap>
+    <CommodMap><Name>Rose cloth</Name><Index>142</Index></CommodMap>
+    <CommodMap><Name>Fine rose cloth</Name><Index>143</Index></CommodMap>
+    <CommodMap><Name>Aqua enamel</Name><Index>144</Index></CommodMap>
+    <CommodMap><Name>Brown enamel</Name><Index>145</Index></CommodMap>
+    <CommodMap><Name>Gold enamel</Name><Index>146</Index></CommodMap>
+    <CommodMap><Name>Grey enamel</Name><Index>147</Index></CommodMap>
+    <CommodMap><Name>Lime enamel</Name><Index>148</Index></CommodMap>
+    <CommodMap><Name>Maroon enamel</Name><Index>149</Index></CommodMap>
+    <CommodMap><Name>Navy enamel</Name><Index>150</Index></CommodMap>
+    <CommodMap><Name>Pink enamel</Name><Index>151</Index></CommodMap>
+    <CommodMap><Name>Tan enamel</Name><Index>152</Index></CommodMap>
+    <CommodMap><Name>Violet enamel</Name><Index>153</Index></CommodMap>
+    <CommodMap><Name>Gold nuggets</Name><Index>154</Index></CommodMap>
+    <CommodMap><Name>Light green cloth</Name><Index>155</Index></CommodMap>
+    <CommodMap><Name>Fine light green cloth</Name><Index>156</Index></CommodMap>
+    <CommodMap><Name>Magenta cloth</Name><Index>157</Index></CommodMap>
+    <CommodMap><Name>Fine magenta cloth</Name><Index>158</Index></CommodMap>
+    <CommodMap><Name>Rose paint</Name><Index>159</Index></CommodMap>
+    <CommodMap><Name>Lavender paint</Name><Index>160</Index></CommodMap>
+    <CommodMap><Name>Mint paint</Name><Index>161</Index></CommodMap>
+    <CommodMap><Name>Light green paint</Name><Index>162</Index></CommodMap>
+    <CommodMap><Name>Magenta paint</Name><Index>163</Index></CommodMap>
+    <CommodMap><Name>Lavender enamel</Name><Index>164</Index></CommodMap>
+    <CommodMap><Name>Light green enamel</Name><Index>165</Index></CommodMap>
+    <CommodMap><Name>Magenta enamel</Name><Index>166</Index></CommodMap>
+    <CommodMap><Name>Mint enamel</Name><Index>167</Index></CommodMap>
+    <CommodMap><Name>Rose enamel</Name><Index>168</Index></CommodMap>
+  </CommodMaps>
+</CommodInfo>

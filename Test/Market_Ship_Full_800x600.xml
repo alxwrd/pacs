@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CaptureInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BitmapFile>Market_Ship_Full_800x600.tif</BitmapFile>
+  <Island>Wensleydale</Island>
+  <CommodityRect>
+    <X>15</X>
+    <Y>83</Y>
+    <Width>598</Width>
+    <Height>260</Height>
+  </CommodityRect>
+  <Commodities>
+    <Commodity><Name>Stone</Name><Shop>Poepleaser's Furnishing...</Shop>
+      <BuyPrice>0</BuyPrice><BuyQty>238</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Theicemaiden's Furnishi...</Shop>
+      <BuyPrice>0</BuyPrice><BuyQty>1001</BuyQty><SellPrice>-1</SellPrice><SellQty>-1</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Bootlicker's Furnishing S...</Shop>
+      <BuyPrice>0</BuyPrice><BuyQty>294</BuyQty><SellPrice>3</SellPrice><SellQty>1001</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Gjsmit's Shipbuilding Stall</Shop>
+      <BuyPrice>0</BuyPrice><BuyQty>382</BuyQty><SellPrice>2</SellPrice><SellQty>18</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Reui's Furnishing Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>2</SellPrice><SellQty>200</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Capslock's Shipbuilding ...</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>2</SellPrice><SellQty>10</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Mercury's Furnishing Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>15</SellPrice><SellQty>360</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Shiri's Shipbuilding Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>4</SellPrice><SellQty>30</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Algar's Shipbuilding Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>9</SellPrice><SellQty>15</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Daviro's Furnishing Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>3</SellPrice><SellQty>500</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Chestella's Shipbuilding ...</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>4</SellPrice><SellQty>26</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Onethumb's Shipbuildin...</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>5</SellPrice><SellQty>51</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Rumsundae's Furnishin...</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>2</SellPrice><SellQty>600</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Tawrich's Furnishing Stall</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>10</SellPrice><SellQty>77</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Maragato's Shipbuilding ...</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>2</SellPrice><SellQty>70</SellQty>
+    </Commodity>  
+    <Commodity><Name>Stone</Name><Shop>Hooknose's Furnishing ...</Shop>
+      <BuyPrice>-1</BuyPrice><BuyQty>-1</BuyQty><SellPrice>3</SellPrice><SellQty>431</SellQty>
+    </Commodity>  
+  </Commodities>
+</CaptureInfo>
