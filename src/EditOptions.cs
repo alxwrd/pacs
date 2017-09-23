@@ -8,66 +8,66 @@ using System.IO;
 
 namespace ppaocr
 {
-	/// <summary>
-	/// Summary description for Options.
-	/// </summary>
-	public class EditOptions : System.Windows.Forms.Form
-	{
-		private System.Windows.Forms.Button buttonOk;
-		private System.Windows.Forms.Button buttonCancel;
-		/// <summary>
-		/// Required designer variable.
-		/// </summary>
+    /// <summary>
+    /// Summary description for Options.
+    /// </summary>
+    public class EditOptions : System.Windows.Forms.Form
+    {
+        private System.Windows.Forms.Button buttonOk;
+        private System.Windows.Forms.Button buttonCancel;
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         private System.ComponentModel.Container components = null;
         private System.Windows.Forms.TabControl tabControl1;
         private TabPage tabPage1;
         private CheckBox checkBoxEnableDebugMode;
         private CheckBox checkBoxAutoFontSmoothing;
         private HelpProvider helpProvider1;
-		private Options options;
+        private Options options;
 
-		public EditOptions(ref Options myOptions)
-		{
-			//
-			// Required for Windows Form Designer support
-			//
-			InitializeComponent();
+        public EditOptions(ref Options myOptions)
+        {
+            //
+            // Required for Windows Form Designer support
+            //
+            InitializeComponent();
 
-			//
-			// TODO: Add any constructor code after InitializeComponent call
-			//
-			options = myOptions;
-			RefreshDisplay();
-		}
+            //
+            // TODO: Add any constructor code after InitializeComponent call
+            //
+            options = myOptions;
+            RefreshDisplay();
+        }
 
-		public void RefreshDisplay()
-		{
+        public void RefreshDisplay()
+        {
             checkBoxAutoFontSmoothing.Checked = options.IsAutoFontSmoothing;
             checkBoxEnableDebugMode.Checked = options.IsDebugMode;
 
-		}
+        }
 
-		/// <summary>
-		/// Clean up any resources being used.
-		/// </summary>
-		protected override void Dispose( bool disposing )
-		{
-			if( disposing )
-			{
-				if(components != null)
-				{
-					components.Dispose();
-				}
-			}
-			base.Dispose( disposing );
-		}
-	#region Windows Form Designer generated code
-		/// <summary>
-		/// Required method for Designer support - do not modify
-		/// the contents of this method with the code editor.
-		/// </summary>
-		private void InitializeComponent()
-		{
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        protected override void Dispose( bool disposing )
+        {
+            if( disposing )
+            {
+                if(components != null)
+                {
+                    components.Dispose();
+                }
+            }
+            base.Dispose( disposing );
+        }
+    #region Windows Form Designer generated code
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
             this.buttonOk = new System.Windows.Forms.Button();
             this.buttonCancel = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
@@ -164,24 +164,24 @@ namespace ppaocr
             this.tabPage1.PerformLayout();
             this.ResumeLayout(false);
 
-		}
-		#endregion
+        }
+        #endregion
 
 
-		private void buttonOk_Click(object sender, System.EventArgs e)
-		{
-			if (options != null)
-			{
+        private void buttonOk_Click(object sender, System.EventArgs e)
+        {
+            if (options != null)
+            {
                 options.IsAutoFontSmoothing = checkBoxAutoFontSmoothing.Checked;
                 options.IsDebugMode = checkBoxEnableDebugMode.Checked;
 
-			}
-		}
+            }
+        }
 
         private void EditOptions_Load(object sender, EventArgs e)
         {
 
         }
 
-	}
+    }
 }

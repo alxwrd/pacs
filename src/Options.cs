@@ -5,38 +5,38 @@ using System.IO;
 
 namespace ppaocr
 {
-	/// <summary>
-	/// Summary description for Options.
-	/// </summary>
+    /// <summary>
+    /// Summary description for Options.
+    /// </summary>
     [Serializable]
-	public class Options
-	{
+    public class Options
+    {
 
-		private bool isDebugMode = false;
+        private bool isDebugMode = false;
         private bool isAutoFontSmoothing = true;
         private bool showFontSmoothingWarning = true;
         private string selectedUploadServer = "";
 
-		public Options()
-		{
-			//
-			// TODO: Add constructor logic here
-			//
-		}
+        public Options()
+        {
+            //
+            // TODO: Add constructor logic here
+            //
+        }
 
-		[XmlElementAttribute("IsDebugMode")]
-		public bool IsDebugMode
-		{
-			get { return isDebugMode; }
-			set { isDebugMode = value; }
-		}
+        [XmlElementAttribute("IsDebugMode")]
+        public bool IsDebugMode
+        {
+            get { return isDebugMode; }
+            set { isDebugMode = value; }
+        }
 
-		[XmlElementAttribute("IsAutoFontSmoothing")]
-		public bool IsAutoFontSmoothing
-		{
+        [XmlElementAttribute("IsAutoFontSmoothing")]
+        public bool IsAutoFontSmoothing
+        {
             get { return isAutoFontSmoothing; }
-			set { isAutoFontSmoothing = value; }
-		}
+            set { isAutoFontSmoothing = value; }
+        }
 
         [XmlElementAttribute("ShowFontSmoothingWarning")]
         public bool ShowFontSmoothingWarning
@@ -80,5 +80,5 @@ namespace ppaocr
             return options;
         }
 
-	}
+    }
 }

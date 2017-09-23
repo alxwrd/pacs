@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <CaptureInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<!-- Ahoy pane has different border which can impact location
-	   of "Player's Online" text and recognition of island name-->
+    <!-- Ahoy pane has different border which can impact location
+       of "Player's Online" text and recognition of island name-->
   <BitmapFile>Market_Island_Full_800x600_Kasidim2.tif</BitmapFile>
   <Island>Kasidim</Island>
   <CommodityRect>
