@@ -315,7 +315,7 @@ namespace ppaocr
 
         private void UploadFile(UploadServer server)
         {
-            string[] files = {"marketdata.gz"};
+            string[] files = {"Commodities.json"};
 
             long length = 0;
             string boundary = "----------------------------" + DateTime.Now.Ticks.ToString("x");
@@ -341,7 +341,7 @@ namespace ppaocr
 
             for(int i=0;i<files.Length;i++)
             {
-                string header = string.Format(headerTemplate, "marketdata", files[i]);
+                string header = string.Format(headerTemplate, files[i], files[i]);
 
                 byte[] headerbytes = System.Text.Encoding.UTF8.GetBytes(header);
 

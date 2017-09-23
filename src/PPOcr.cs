@@ -9,6 +9,9 @@ using System.Runtime.InteropServices;
 using System.IO;
 using Microsoft.Win32;
 using System.Configuration;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Json;
+
 
 namespace ppaocr
 {
@@ -1156,7 +1159,6 @@ namespace ppaocr
                 GC.Collect();   // Force garbage collection
                 GC.WaitForPendingFinalizers();
             }
-
             if (Utils.traceSwitch.TraceVerbose)
             {
                 // Create unique list of shop names and write it to text file
@@ -1173,15 +1175,52 @@ namespace ppaocr
                         writer.WriteLine(c.Shop);
                     }
                 }
-
                 writer.Close();
 
                 // Write all commodity information to text file
                 writer = new StreamWriter(appDataDir+"\\Commodities.txt",false);
+
                 foreach (Commodity c in allCommods.Values)
                     writer.WriteLine(c.ToString());
                 writer.Close();
+            }
 
+            MarketData market_data = new MarketData();
+
+            market_data.ocean = ocean;
+            market_data.island = island;
+            market_data.goods = new Dictionary<string, Good>();
+
+
+            foreach (Commodity c in allCommods.Values)
+            {
+                if (!market_data.goods.ContainsKey(c.Name) == true)
+                {
+                    market_data.goods.Add(c.Name, new Good(){buy_orders=new List<Order>(), sell_orders=new List<Order>()});
+                }
+                if (c.BuyPrice != null)
+                {
+                    market_data.goods[c.Name].buy_orders.Add(new Order(){shop=c.Shop, price=c.BuyPrice, amount=c.BuyQty});
+                }
+                if (c.SellPrice != null)
+                {
+                    market_data.goods[c.Name].sell_orders.Add(new Order(){shop=c.Shop, price=c.SellPrice, amount=c.SellQty});
+                }
+            }
+
+            using (MemoryStream stream = new MemoryStream())
+            {
+                DataContractJsonSerializerSettings settings = new DataContractJsonSerializerSettings(){UseSimpleDictionaryFormat=true};
+                DataContractJsonSerializer market_json = new DataContractJsonSerializer(typeof(MarketData), settings);
+                market_json.WriteObject(stream, market_data);
+                string json_string = Encoding.UTF8.GetString(stream.ToArray());
+
+                using (StreamWriter writer = new StreamWriter(appDataDir+"\\Commodities.json", false))
+                {
+                    writer.WriteLine(json_string);
+                    writer.Flush();
+                    writer.Close();
+                }
             }
 
             return allCommods;
