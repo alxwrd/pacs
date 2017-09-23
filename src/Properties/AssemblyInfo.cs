@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Puzzle Pirates Automated OCR")]
+[assembly: AssemblyTitle("Pirates Automatic Commodity Scraper")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Puzzle Pirates Automated OCR")]
-[assembly: AssemblyCopyright("Copyright ©  2008 - 2009")]
+[assembly: AssemblyProduct("Pirates Automatic Commodity Scraper")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -41,6 +41,6 @@ using System.Runtime.InteropServices;
 //        of clients or has new API.  But, this app doesn't have a public API or
 //        clients and the AssemblyFileVersion doesn't support the .* syntax for
 //        auto-incrementing build/revision. 
-[assembly: AssemblyVersion("5.0.30.*")]
+[assembly: AssemblyVersion("0.1.*")]
 //[assembly: AssemblyVersion("1.0.0.0")]
 //[assembly: AssemblyFileVersion("1.0.0.0")]

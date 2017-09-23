@@ -126,14 +126,11 @@ namespace ppaocr
 			sb.Append( " (" );
 			sb.Append( ThisAssemblyName.Version.ToString()	);
 			sb.Append( ")\n\n" );
-            sb.Append("Puzzle Pirates Automated OCR (PPAOCR) Client for use with Pirate Commodity Trader with Bleach (PCTB)\n\n");
+            sb.Append("Pirates Automatic Commodity Scraper (PACS)\n\n");
             sb.Append(Copyright);
             sb.Append("\n\n");
             sb.Append("Credits:\n\n");
-            sb.Append("   Client (New v5 Version of PPAOCR): Yuhu\n");
-            sb.Append("   Server (Updates): Barlennan\n");
-            sb.Append("   Server (Original): Gorondo\n");
-            sb.Append("   Testing (v5 Client): Brandishwar\n");
+            sb.Append("   Original PPAOCR: Yuhu, Brandishwar Copyright ©  2008 - 2009\n");
 
 			labelTextArea.Text = sb.ToString();
 
