@@ -315,82 +315,15 @@ namespace ppaocr
 
         private void UploadFile(UploadServer server)
         {
-            string[] files = {"Commodities.json"};
-
-            long length = 0;
-            string boundary = "----------------------------" + DateTime.Now.Ticks.ToString("x");
-            boundary = "SEP9242";
-
-            HttpWebRequest httpWebRequest2 = (HttpWebRequest)WebRequest.Create(server.UploadUrl);
-            httpWebRequest2.ContentType = "multipart/form-data; boundary=" + boundary;
-            httpWebRequest2.Method = "POST";
-            httpWebRequest2.KeepAlive = false;
-
-            httpWebRequest2.Credentials =
-            System.Net.CredentialCache.DefaultCredentials;
-
-            Stream memStream = new System.IO.MemoryStream();
-
-            byte[] boundarybytes = System.Text.Encoding.ASCII.GetBytes("\r\n--" + boundary + "\r\n");
-
-
-            memStream.Write(boundarybytes,0,boundarybytes.Length);
-            length += boundarybytes.Length;
-
-            string headerTemplate = "Content-Disposition: form-data; name=\"{0}\"; filename=\"{1}\"\nContent-Type: application/gzip\r\n\r\n";
-
-            for(int i=0;i<files.Length;i++)
+            using (WebClient client = new WebClient())
             {
-                string header = string.Format(headerTemplate, files[i], files[i]);
-
-                byte[] headerbytes = System.Text.Encoding.UTF8.GetBytes(header);
-
-                memStream.Write(headerbytes,0,headerbytes.Length);
-                length += headerbytes.Length;
-
-                FileStream fileStream = new FileStream(appDataDir+"\\"+files[i], FileMode.Open,
-                FileAccess.Read);
-                byte[] buffer = new byte[1024];
-
-                int bytesRead = 0;
-
-                while ( (bytesRead = fileStream.Read(buffer, 0, buffer.Length)) != 0 )
+                client.Headers.Add("Content-Type", "application/json");
+                using (Stream fileStream = File.OpenRead(appDataDir+"\\Commodities.json"))
+                using (Stream requestStream = client.OpenWrite(server.UploadUrl, "POST"))
                 {
-                    memStream.Write(buffer, 0, bytesRead);
-                    length += bytesRead;
+                    fileStream.CopyTo(requestStream);
                 }
-
-
-                memStream.Write(boundarybytes,0,boundarybytes.Length);
-                length += boundarybytes.Length;
-
-                fileStream.Close();
             }
-
-            httpWebRequest2.ContentLength = memStream.Length;
-
-            Stream requestStream = httpWebRequest2.GetRequestStream();
-
-            memStream.Position = 0;
-            byte[] tempBuffer = new byte[memStream.Length];
-            memStream.Read(tempBuffer,0,tempBuffer.Length);
-            memStream.Close();
-            requestStream.Write(tempBuffer,0,tempBuffer.Length );
-            requestStream.Close();
-
-
-            WebResponse webResponse2 = httpWebRequest2.GetResponse();
-
-            Stream stream2 = webResponse2.GetResponseStream();
-            StreamReader reader2 = new StreamReader(stream2);
-
-
-            errorMsg = reader2.ReadToEnd();
-
-            webResponse2.Close();
-            httpWebRequest2 = null;
-            webResponse2 = null;
-
         }
 
         private void UploadWithBrowser(UploadServer server, System.Windows.Forms.WebBrowser webBrowser)
