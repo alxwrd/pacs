@@ -1,4 +1,9 @@
-﻿# PACS: *Pirates Automatic Commodity Scraper*
+> [!WARNING]  
+> This project has been archived - _see [YARRG](http://yarrg.chiark.net/intro) <sup>[[wiki]](https://yppedia.puzzlepirates.com/YARRG)</sup>_
+
+---
+ 
+ # PACS: *Pirates Automatic Commodity Scraper*
 
 <sup>*This project is a fork of PPAOCR (Puzzle Pirates Automatic OCR), the original
 can be found on [Source Forge](https://sourceforge.net/projects/pctb2/).*</sup>
